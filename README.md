@@ -1,43 +1,58 @@
 # Neeraj Vijayakumar Pattanashetti
 
-Hi I’m Neeraj. I’m passionate about artificial intelligence and building systems that learn, reason, and help people. I enjoy exploring machine learning, natural language processing, large language models, model evaluation, and the engineering that makes experiments reproducible and production-ready.
+Hey there! I'm Neeraj—a developer deeply interested in artificial intelligence, scalable systems, and the intersection of software engineering and data-driven solutions. I’m constantly exploring ideas in AI, machine learning, and automation, focusing on practical applications and building things that work in the real world.
 
-- 🔭 Current focus: practical LLM applications, prompt engineering, model fine-tuning, efficient inference, and MLOps pipelines  
-- 🧠 Interests: AI/ML research and engineering, NLP, model alignment, data engineering, and reproducible experimentation  
-- ⚙️ Skills & tools: Python · Jupyter · PyTorch · TensorFlow · NumPy · pandas · TypeScript · Git · Docker · CI/CD · Experiment tracking (MLflow/Weights & Biases)  
-- 🌱 Learning: advanced model alignment techniques, low-latency inference, and scalable deployment patterns  
-- 📫 Contact: neerajvpattanashetti@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/neeraj-vijayakumar-pattanashetti-613305239/
-- 🔗 Portfolio: https://neeraj-v-p.onrender.com/
+## 👨‍💻 About Me
+- **Passionate about:** AI, machine learning, natural language processing, and building intelligent applications.
+- **Programming languages:** Python, Java, C, JavaScript, TypeScript.
+- **Frameworks & tools:** React, Node.js, Express, Tailwind CSS, Docker, Git, CI/CD.
+- **Currently learning:** Deep learning model alignment, efficient inference, scalable backend architectures, and advanced deployment strategies.
+- **I value:** Clean code, reproducibility, and turning ideas into robust systems.
 
----
+## 📫 Contact
+- **Email:** neerajvpattanashetti@gmail.com
+- **LinkedIn:** [neeraj-vijayakumar-pattanashetti](https://www.linkedin.com/in/neeraj-vijayakumar-pattanashetti-613305239/)
 
-## Resume
-You can download my resume here:  
-🔗 https://github.com/Neeraj0704/Portfolio/raw/master/public/Neeraj_V_Pattanashetti_Resume.pdf
-
----
-
-## GitHub profile — live stats
-Below are live cards that show my GitHub activity and language breakdown.
-
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj0704&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight)
-
-
-Contributions snapshot (from GitHub cards):
-- Total contributions: 204  
-- Current streak: 1 (most recent update shown on the card)  
-- Longest streak: 5 (Aug 18 – Aug 22)
+## 📄 Resume
+Download my resume:  
+[NEERAJ_V_PATTANASHETTI_RESUME.pdf](https://github.com/Neeraj0704/Portfolio/raw/master/public/Neeraj_V_Pattanashetti_Resume.pdf)
 
 ---
 
-## What I build and how I work
-I focus on turning AI ideas into reproducible experiments and reliable systems. I like to:
-- Prototype quickly in Jupyter and small experiments, then iterate toward robust pipelines.
-- Combine research curiosity with engineering discipline: clear metrics, reproducible runs, and automated CI/CD for models.
-- Keep models interpretable, tested, and monitorable once deployed.
+## 📊 GitHub Profile — Live Stats
+
+Below are live cards that show my GitHub activity and language breakdown.  
+All blocks are visually sized to match for a neat look.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Neeraj0704&show_icons=true&theme=tokyonight" width="410" height="230"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" width="410" height="230"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight" width="410" height="230"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=Neeraj0704&theme=tokyonight&row=1&column=7" width="410" height="230"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+#### Recent GitHub stats (from live cards)
+- **Total Commits (last year):** 121
+- **Total Contributions:** 204
+- **Current Streak:** 1 | **Longest Streak:** 5 days
+- **Most used languages:** Python, Java, JavaScript, TypeScript, C, CSS
 
 ---
 
+I'm always open to collaborating or discussing new AI ideas—feel free to reach out!
