@@ -1,8 +1,6 @@
-## Hi there 👋
+## Neeraj Vijayakumar Pattanashetti
 
-# Neeraj Vijayakumar Pattanashetti
-
-I’m Neeraj. I’m passionate about artificial intelligence and building things that learn, reason, and help people. I enjoy exploring machine learning, large language models, data workflows, and the tooling that makes experiments reproducible and deployable.
+## Hi there 👋,I’m Neeraj. I’m passionate about artificial intelligence and building things that learn, reason, and help people. I enjoy exploring machine learning, large language models, data workflows, and the tooling that makes experiments reproducible and deployable.
 
 - 🔭 Currently exploring: practical applications of LLMs, model fine-tuning, prompt engineering, and MLOps pipelines  
 - 🧠 Interests: AI / ML, natural language processing, model evaluation, data engineering, and research-oriented problem solving  
