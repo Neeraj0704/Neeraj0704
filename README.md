@@ -24,7 +24,5 @@ These cards show an up-to-date snapshot of my GitHub activity and languages.
 ![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj0704&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Neeraj0704&theme=github)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Neeraj0704&theme=tokyonight&row=1&column=7)
 
 ---
