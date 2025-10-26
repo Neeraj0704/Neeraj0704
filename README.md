@@ -8,6 +8,7 @@ Hi I’m Neeraj. I’m passionate about artificial intelligence and building sys
 - 🌱 Learning: advanced model alignment techniques, low-latency inference, and scalable deployment patterns  
 - 📫 Contact: neerajvpattanashetti@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/neeraj-vijayakumar-pattanashetti-613305239/
+- 🔗 Portfolio: https://neeraj-v-p.onrender.com/
 
 ---
 
@@ -23,8 +24,7 @@ Below are live cards that show my GitHub activity and language breakdown.
 ![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj0704&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Neeraj0704&theme=github)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Neeraj0704&theme=tokyonight&row=1&column=7)
+
 
 Contributions snapshot (from GitHub cards):
 - Total contributions: 204  
