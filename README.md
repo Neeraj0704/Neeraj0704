@@ -12,7 +12,7 @@ Hey there! I'm Neeraj a developer deeply interested in artificial intelligence, 
 ## 📫 Contact
 - **Email:** neerajvpattanashetti@gmail.com
 - **LinkedIn:** [neeraj-vijayakumar-pattanashetti](https://www.linkedin.com/in/neeraj-vijayakumar-pattanashetti-613305239/)
-- **Portfolio:**https://neeraj-v-p.onrender.com/
+- **Portfolio:** https://neeraj-v-p.onrender.com/
 
 ## 📄 Resume
 Download my resume:  
