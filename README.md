@@ -22,7 +22,7 @@ You can download my resume here:
 Below are live cards that show my GitHub activity and language breakdown.
 
 ![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj0704&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight)
 
 
