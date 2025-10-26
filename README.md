@@ -12,6 +12,7 @@ Hey there! I'm Neeraj—a developer deeply interested in artificial intelligence
 ## 📫 Contact
 - **Email:** neerajvpattanashetti@gmail.com
 - **LinkedIn:** [neeraj-vijayakumar-pattanashetti](https://www.linkedin.com/in/neeraj-vijayakumar-pattanashetti-613305239/)
+- **Portfolio:**(https://neeraj-v-p.onrender.com/)
 
 ## 📄 Resume
 Download my resume:  
@@ -39,9 +40,7 @@ All blocks are visually sized to match for a neat look.
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight" width="410" height="230"/>
     </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Neeraj0704&theme=tokyonight&row=1&column=7" width="410" height="230"/>
-    </td>
+   
   </tr>
 </table>
 
