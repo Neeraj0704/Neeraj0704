@@ -36,12 +36,7 @@ All blocks are visually sized to match for a neat look.
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" width="410" height="230"/>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj0704&theme=tokyonight" width="410" height="230"/>
-    </td>
-   
-  </tr>
+
 </table>
 
 </div>
