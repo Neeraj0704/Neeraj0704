@@ -20,10 +20,7 @@ Download my resume:
 
 ---
 
-## 📊 GitHub Profile — Live Stats
-
-Below are live cards that show my GitHub activity and language breakdown.  
-All blocks are visually sized to match for a neat look.
+## 📊 GitHub Profile - Stats
 
 <div align="center">
 
