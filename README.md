@@ -38,12 +38,6 @@ Download my resume:
 
 </div>
 
-#### Recent GitHub stats (from live cards)
-- **Total Commits (last year):** 121
-- **Total Contributions:** 204
-- **Current Streak:** 1 | **Longest Streak:** 5 days
-- **Most used languages:** Python, Java, JavaScript, TypeScript, C, CSS
 
----
 
 I'm always open to collaborating or discussing new AI ideas—feel free to reach out!
