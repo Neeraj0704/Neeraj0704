@@ -20,24 +20,6 @@ Download my resume:
 
 ---
 
-## 📊 GitHub Profile - Stats
-
-<div align="center">
-
-<table>
-<tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj0704&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" width="410" height="230"/>
-    </td>
-</tr>
-    
-    
-  
-
-</table>
-
-</div>
 
 
-
-I'm always open to collaborating or discussing new AI ideas—feel free to reach out!
+I'm always open to collaborating or discussing new AI ideas, feel free to reach out!
