@@ -16,7 +16,7 @@ Hey there! I'm Neeraj a developer deeply interested in artificial intelligence, 
 
 ## 📄 Resume
 Download my resume:  
-[NEERAJ_V_PATTANASHETTI_RESUME.pdf](https://github.com/Neeraj0704/Portfolio/raw/master/public/Neeraj_V_Pattanashetti_Resume.pdf)
+[NEERAJ_V_PATTANASHETTI_RESUME.pdf](https://github.com/Neeraj0704/Portfolio/public/Neeraj_V_Pattanashetti_Resume.pdf)
 
 ---
 
